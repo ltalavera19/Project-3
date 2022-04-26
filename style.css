@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+
+#main-navbar {
+	overflow: hidden;
+}
+
+#navbar-container {
+	float: left;
+	width: 100%;
+	position: relative;
+}
+
+#navbar-container ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	left: 50%;
+	float: left;
+}
+
+#navbar-container ul li {
+	float: left;
+	position: relative;
+	right: 50%;
+	display: block;
+	
+}
+
+#navbar-container ul li a {
+	display: block;
+	padding: 10px 20px;
+	color: #6fd2ff;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: Inter;
+}
+
+#navbar-container ul li a:hover {
+	background-color: #457469;
+	border-radius: 5px;
+	border-left-style: solid;
+	border-left-width: 5px;
+	border-left-color: purple;
+}
+
+body{
+	background-color: #724f99;
+	padding: 0% 7%;
+}
+
+p {
+	color: white;
+	font-family: Arial;
+	font-size: 22px;
+}
+
+h1 {
+	color: white;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	border-left-style: solid;
+	border-left-color: purple;
+	border-top-left-radius: 3px;
+	padding-left: 10px;
+}
+
+h2 {
+	color: white;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	border-left-style: solid;
+	border-left-color: purple;
+	border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+	border-bottom-left-radius: 1px;
+	padding-left: 10px;
+}
+
+h3 {
+	color: white;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	border-left-style: solid;
+	border-left-color: purple;
+	border-bottom-left-radius: 3px;
+	border-bottom-left-radius: 1px;
+	padding-left: 10px;
+}
+
+li {
+  color: white;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	border-left-style: solid;
+	border-left-color: purple;
+	border-bottom-left-radius: 3px;
+	border-bottom-left-radius: 1px;
+	padding-left: 10px;
+}
+
+h4 {
+	color: white;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	border-left-style: solid;
+	border-left-color: purple;
+	border-bottom-left-radius: 3px;
+	border-bottom-left-radius: 1px;
+	padding-left: 10px;
+
+}
+
+h5 {
+	color: white;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	border-left-style: solid;
+	border-left-color: purple;
+	border-bottom-left-radius: 3px;
+	border-bottom-left-radius: 1px;
+	padding-left: 10px;
+
+}
+
+#resume li {
+	color: #e5e5e5;
+	font-family: Arial;
+}
+
+#resume_divider {
+	border: 1px solid rgb(255, 10, 202);
+	border-radius: 1px;
+}
