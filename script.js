@@ -13,5 +13,4 @@ function initMap() {
     });
 
     chicagoPath.setMap(map);
-
-} 
+}
